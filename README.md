@@ -7,8 +7,8 @@ applications that form the basis of spring
 - Spring bean scopes and lifecycle
 
 ### Steps
-> Constructor Injection
-> Setter Injection
-> Injecting values from a properties file
-> Bean scopes(Singleton Scope, Prototype Scope)
+> Constructor Injection, 
+> Setter Injection, 
+> Injecting values from a properties file, 
+> Bean scopes(Singleton Scope, Prototype Scope), 
 > Configuration of init and destroy methods 
